@@ -7,7 +7,8 @@ export default class Home extends Component {
   render() {
     return (
       <div>
-        <div className={styles.container} data-tid="container">
+        <div data-tid="container">
+          Hello
         </div>
       </div>
     );
